@@ -4,4 +4,4 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ## Clases
 
 ### Tema 1
-* [Clase 1 (12/09)](clases/clase01/clase01.md): Presentación y conceptos de algoritmo.
+* [Clase 1 (11/09)](clases/clase01/clase01.md): Presentación y conceptos de algoritmo.
