@@ -57,15 +57,16 @@ El resto de soluciones son adecuadas y quizás dependiendo del caso podría conv
 
 Realice un programa que pregunte la hora en formato 24h y nos devuelva esa misma hora en formato am/pm. am (Ante meridiem) representa las 12 primeras horas del día y pm (Post meridiem) las últimas 12 horas. 
 
-Aunque se pueden considerar más situaciones, en este caso hay dos posibles casos diferenciados:
+Aunque se pueden considerar más situaciones, en este caso hay tres posibles casos diferenciados:
 * Menor de 12: las horas no cambian y se pone "am"
-* Mayor o igual de las 12: a las horas se les resta 12 y se pone "pm"
+* Mayor de las 12: a las horas se les resta 12 y se pone "pm"
+* Igual a 12: se pone "pm" sin restarle nada
 
-Con lo visto hasta el momento este ejercicio hay que hacerlo con `if` y `else`:
+Con lo visto hasta el momento este ejercicio hay que hacerlo con `if`:
 
 [[Ver código](t3e06.conversion_hora1.py)]
 
-Aunque también se puede hacer con un `if` simple
+Aunque también se puede hacer de forma optimizada presuponiendo unos valores:
 
 [[Ver código](t3e06.conversion_hora2.py)]
 

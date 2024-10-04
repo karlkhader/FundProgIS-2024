@@ -1,8 +1,13 @@
-hora: int = int(input("Hora: "))
+# Ejercicio que transforma la hora optimizado
+hora24: int = int(input("Hora: "))
 
-valor: str = "am"
-if hora >= 12:
-    hora = hora - 12
-    valor: str = "pm"
-
-print("Son las", hora, valor)
+# Supongo una configuración y solamente la cambio si lo necesito
+modo: str = "pm"
+    
+if hora24 < 12:
+    modo = "am"
+    
+if hora24 > 12:
+    hora24 = hora24-12
+    
+print("Son las", hora24, modo)
