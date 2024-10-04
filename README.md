@@ -12,4 +12,5 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 4 (23/09)](clases/clase04/clase04.md): Seguimos viendo conceptos básicos como comentarios, bibliotecas (módulos) y cómo leer de teclado `input`. Operaciones sobre `str` y acceso a los letras individuales o a subcadenas.
 
 ### Tema 3
-* [Clase 5 (30/09)](clases/clase05/clase05.md): Repaso de problemas del Tema 2. Comienzo del Tema 3. Condiciones lógicas. Ejercicios. 
+* [Clase 5 (30/09)](clases/clase05/clase05.md): Repaso de problemas del Tema 2. Comienzo del Tema 3. Condiciones lógicas. Ejercicios.
+* [Clase 6 (02/10)](clases/clase06/clase06.md): Sentencias de selección.
