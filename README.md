@@ -16,3 +16,4 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 * [Clase 6 (02/10)](clases/clase06/clase06.md): Sentencias de selección.
 * [Clase 7 (07/10)](clases/clase07/clase07.md): Repaso de las sentencias de selección especialmente prestando atención a la sentencia de selección múltiple. También se empezó con la sentencia de repetición `while`.
 * [Clase 8 (14/10)](clases/clase08/clase08.md): Vemos el segundo tipo de sentencia de repetición, el bucle `for` y hacemos ejercicios: cambiando los rangos del bucle, ejercicios de figuras y ejercicios cortos (entre los que se incluye el factorial, si un número es primo o si un número es perfecto).
+* [Clase 9 (21/10)](clases/clase09/clase09.md): Ejercicios avanzados de bucles (incluyendo de parciales de 2020/2021 y 2021/2022)
