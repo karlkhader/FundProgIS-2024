@@ -20,3 +20,4 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 4
 * [Clase 10 (30/10)](clases/clase10/clase10.md): Introducción a los subprogramas. Creación de funciones. Ejercicios.
+* [Clase 11 (04/11)](clases/clase11/clase11.md): Procedimientos. Funciones que devuelven varios valores. Ámbitos. Ejercicios.
