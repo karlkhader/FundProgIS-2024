@@ -24,3 +24,4 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 5
 * [Clase 12 (06/11)](clases/clase12/clase12.md): Resolución de ejercicios del tema de funciones. Conceptos de lista y acceso (rango).
+* [Clase 13 (11/11)](clases/clase13/clase13.md): Ejercicios con listas (incluyendo algunos más complejos).
