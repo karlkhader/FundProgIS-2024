@@ -32,4 +32,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 7
 * [Clase 16 (27/11)](clases/clase16/clase16.md): Concepto y uso de diccionarios.
-* [Clase 17 (02/12)](clases/clase17/clase17.md): Ejercicios de creación de diccionarios. Listas de Diccionario. Ejercicio de Spotify.
+* [Clase 17 (02/12)](clases/clase17/clase17.md): Ejercicios de creación de diccionarios. Listas de Diccionario.
+
+### Tema 8
+* [Clase 18 (04/12)](clases/clase18/clase18.md): Introducción a ficheros. Ejercicios de ficheros.
