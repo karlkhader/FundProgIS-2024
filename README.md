@@ -37,3 +37,6 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Tema 8
 * [Clase 18 (04/12)](clases/clase18/clase18.md): Introducción a ficheros. Ejercicios de ficheros.
 * [Clase 19 (12/12)](clases/clase19/clase19.md): Ejercicios de ficheros. Ejemplo de examen.
+
+### Repaso
+* [Clase 20 (16/12)](clases/clase20/clase20.md): Resolución de dudas. Ejemplo de examen.
