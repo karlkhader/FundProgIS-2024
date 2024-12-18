@@ -39,22 +39,22 @@ print(simplificar([[1,3], [7,9], [2,4], [6,8]])) # [[1,4], [6,9]]
 *Desarrolle un función `def leer_datos(nombre_fichero: str, equipo: str) -> dict` que lea un fichero que dispone de múltiples líneas con el formato: `Jornada: Jugador – Equipo: Goles`, tal como se muestra en el siguiente ejemplo:*
 
 ```text
-2: K. Benzema – Real Madrid: 1
-2: Iago Aspas – Celta: 1
-2: L. Modrić – Real Madrid: 1
-2: Vinicius Jr. – Real Madrid: 2
-2: F. Valverde – Real Madrid: 1
-2: R. Lewandowski – Barcelona: 2
-2: A. Isak – Real Sociedad: 1
-2: O. Dembélé – Barcelona: 1
-2: Ansu Fati – Barcelona: 1
-3: R. Lewandowski – Barcelona: 1
-3: Pedri – Barcelona: 1
-3: Joaquín Fernández – Real Valladolid: 1
+2: K. Benzema - Real Madrid: 1
+2: Iago Aspas - Celta: 1
+2: L. Modrić - Real Madrid: 1
+2: Vinicius Jr. - Real Madrid: 2
+2: F. Valverde - Real Madrid: 1
+2: R. Lewandowski - Barcelona: 2
+2: A. Isak - Real Sociedad: 1
+2: O. Dembélé - Barcelona: 1
+2: Ansu Fati - Barcelona: 1
+3: R. Lewandowski - Barcelona: 1
+3: Pedri - Barcelona: 1
+3: Joaquín Fernández - Real Valladolid: 1
 3: Sergi Roberto - Barcelona: 1
-3: Vinicius Jr. – Real Madrid: 1
-3: Joselu – Espanyol: 1
-3: K. Benzema – Real Madrid: 2
+3: Vinicius Jr. - Real Madrid: 1
+3: Joselu - Espanyol: 1
+3: K. Benzema - Real Madrid: 2
 ```
 
 *Debe devolver un diccionario con cuántos goles a metido cada jugador del equipo indicado. Por ejemplo, para `leer_datos(`[“futbol.txt”](futbol.txt)`, “Real Madrid”)` devolvería `{“K. Benzema”: 3, “L. Modrić”: 1, “Vinicius Jr.”: 3}`.*
